@@ -1,0 +1,30 @@
+Rural population (% of total population) - SP.RUR.TOTL.ZS
+Population growth (annual %)	SP.POP.GROW
+Population ages 65 and above, total	SP.POP.65UP.TO
+Fertility rate, total (births per woman)	SP.DYN.TFRT.IN
+Population ages 65 and above (% of total population)	SP.POP.65UP.TO.ZS
+Life expectancy at birth, total (years)	SP.DYN.LE00.IN	
+Urban population	SP.URB.TOTL
+Rural population	SP.RUR.TOTL
+Population, total	SP.POP.TOTL
+
+0-14 años
+'Población de 0 a 4 años', 'Población de 5 a 9 años','Población de 10 a 14 años',
+
+15-29 años
+'Población de 15 a 19 años', 'Población de 20 a 24 años', 'Población de 25 a 29 años',
+
+30-44 años
+'Población de 30 a 34 años', 'Población de 35 a 39 años', 'Población de 40 a 44 años', 
+
+45-59 años
+'Población de 45 a 49 años', 'Población de 50 a 54 años', 'Población de 55 a 59 años', 
+
+60-74 años
+'Población de 60 a 64 años', 'Población de 65 a 69 años', 'Población de 70 a 74 años',
+
+75-89 años
+'Población de 75 a 79 años', 'Población de 80 a 84 años', 'Población de 85 a 89 años', 
+
++90 años
+'Población de 90 a 94 años', 'Población de 95 a 99 años' 'Población de 100 años y más'
